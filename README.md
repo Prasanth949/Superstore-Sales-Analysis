@@ -115,5 +115,5 @@ Skills
 
 📫 Connect With Me
 
-- [GitHub Profile](https://github.com/Prasanth949)
+- GitHub: [GitHub Profile](https://github.com/Prasanth949)
 - LinkedIn: [Prasanth Kumar Reddy](http://www.linkedin.com/in/prasanth-kumar-reddy-58a7b9313)
