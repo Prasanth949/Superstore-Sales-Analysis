@@ -42,9 +42,9 @@ The dashboard includes interactive filters for:
 - Region
 - Segment
 
-Dashboard Preview
+📊 Dashboard Preview
 
-[Superstore Sales Dashboard](Dashboard.png)
+[Superstore Sales Dashboard](Superstore%20Dashboard.png)
 
 📈 Key Performance Indicators
 
