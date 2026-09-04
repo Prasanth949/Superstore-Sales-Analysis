@@ -44,7 +44,7 @@ The dashboard includes interactive filters for:
 
 Dashboard Preview
 
-![Superstore Sales Dashboard](Dashboard.png)
+[Superstore Sales Dashboard](Dashboard.png)
 
 📈 Key Performance Indicators
 
