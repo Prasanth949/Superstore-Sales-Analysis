@@ -1,4 +1,4 @@
-#📊 Superstore Sales Analysis Dashboard | Microsoft Excel
+# 📊 Superstore Sales Analysis Dashboard | Microsoft Excel
 
 ## 📌 Project Overview
 
