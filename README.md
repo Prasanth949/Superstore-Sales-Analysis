@@ -54,7 +54,7 @@ Key analysis includes:
 
 ## 📊 Dashboard Preview
 
-[Superstore Sales Dashboard](Screenshots/Superstore%20Dashboard.png)
+[Customer Segmentation Dashboard](Screenshots/Dashboard.png)
 
 ---
 
